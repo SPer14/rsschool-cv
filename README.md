@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://SPer14.github.io/rsschool-cv/cv
