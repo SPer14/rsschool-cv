@@ -23,3 +23,27 @@ Sometime ago I became interested in IT. At first I watched manulka courses. Then
 * Maven
 * JIRA
 * POSTMAN
+## Code Example
+
+```
+function sum(a, b, c) {
+   return a + b +c;
+ }
+
+ let result = sum(1, 2, 3);
+ alert( result ); 
+ 
+ ```
+
+## Educations
+
+* Java for Beginners Nail Alishev Udemy
+* Python developer course Yandex Praktikum
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
+
+* English - Pre-intermediate
+* Russian - Fluent
+
+
